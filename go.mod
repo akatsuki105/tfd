@@ -1,4 +1,4 @@
-module tfd
+module github.com/akatsuki-py/tfd
 
 go 1.13
 
