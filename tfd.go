@@ -17,6 +17,9 @@ func CreateSelectDialog(extensions []string, hiddenDisplay bool) (path string, e
 		return path, errors.New(errorMsg)
 	}
 
+	now, _ := os.Getwd()
+	defer os.Chdir(now)
+
 	t := tui.NewTheme()
 	normal := tui.Style{Bg: tui.ColorWhite, Fg: tui.ColorBlack}
 	t.SetStyle("normal", normal)
