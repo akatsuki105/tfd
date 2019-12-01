@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/marcusolsson/tui-go"
+	tui "github.com/Akatsuki-py/my-tui-go"
 )
 
-// CreateSelectDialog create file dialog tui box
+// CreateSelectDialog inits TUI file dialog and returns the path you select.
 func CreateSelectDialog(extensions []string, hiddenDisplay bool) (path string, err error) {
 	if len(extensions) == 0 {
 		errorMsg := "target extensions is empty"

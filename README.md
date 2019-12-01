@@ -1,6 +1,6 @@
 # tfd
 
-<img src="https://travis-ci.com/Akatsuki-py/tfd.svg?branch=master" />
+<img src="https://travis-ci.com/Akatsuki-py/tfd.svg?branch=master" /> <a href="https://godoc.org/github.com/Akatsuki-py/tfd"><img src="https://godoc.org/github.com/Akatsuki-py/tfd?status.svg" alt="GoDoc"></a>
 
 Golang API for text-base file dialog
 

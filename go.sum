@@ -1,3 +1,5 @@
+github.com/Akatsuki-py/my-tui-go v0.0.1 h1:Run8Y2YzXMsQXK7dJReOh2CvCEq3ehGukHl2OKBGkDg=
+github.com/Akatsuki-py/my-tui-go v0.0.1/go.mod h1:S2gl0ZyUJeaeKX1+Sr06kCgjYFlehCZmowhzGsn7lxw=
 github.com/DATA-DOG/go-sqlmock v1.3.3/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/gdamore/encoding v0.0.0-20151215212835-b23993cbb635 h1:hheUEMzaOie/wKeIc1WPa7CDVuIO5hqQxjS+dwTQEnI=
 github.com/gdamore/encoding v0.0.0-20151215212835-b23993cbb635/go.mod h1:yrQYJKKDTrHmbYxI7CYi+/hbdiDT2m4Hj+t0ikCjsrQ=
